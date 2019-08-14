@@ -1,0 +1,6 @@
+﻿  myMagicTower.cpp
+e:\c++place\c++魔塔\c++mota\mymagictower.cpp(166): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+e:\c++place\c++魔塔\c++mota\mymagictower.cpp(167): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+e:\c++place\c++魔塔\c++mota\mymagictower.cpp(994): warning C4715: “choose”: 不是所有的控件路径都返回值
+  C++mota.vcxproj -> E:\c++place\c++魔塔\Debug\C++mota.exe
+  C++mota.vcxproj -> E:\c++place\c++魔塔\Debug\C++mota.pdb (Partial PDB)
